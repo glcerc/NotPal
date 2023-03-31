@@ -5,7 +5,7 @@ NotPal can help you manage your tasks by allowing you to enter them into the app
 
 NotPal also provides helpful warnings when you enter too many tasks that need to be done, which can prevent you from feeling overwhelmed. You can also receive notifications throughout the day that remind you to take care of yourself and your health. By taking small breaks and prioritizing your well-being, you can enhance your productivity and reduce stress.
 
-Proje Kotlin ile yazılmıştır. Firebase is used for profile and social media parts.
+The project is written in Kotlin. Firebase is used for profile and social media parts.
 
 The project consists of 3 main parts as Profile, Tasks and Social Media.
 
